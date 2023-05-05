@@ -17,15 +17,15 @@
  *
  * @package WordPress
  */
-
+define( 'DB_NAME', 'heroku_db' );
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'b31d85dda5cc4b' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '9a8ce273' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'eu-cdbr-west-03.cleardb.net' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
