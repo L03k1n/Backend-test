@@ -1,0 +1,68 @@
+{
+    "id": 41,
+    "date": "2023-05-06T02:21:31",
+    "date_gmt": "2023-05-05T23:21:31",
+    "guid": {
+        "rendered": "http:\/\/ynu-back.herokuapp.com\/?page_id=41"
+    },
+    "modified": "2023-05-06T02:26:06",
+    "modified_gmt": "2023-05-05T23:26:06",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link": "http:\/\/ynu-back.herokuapp.com\/home",
+    "title": {
+        "rendered": "Home"
+    },
+    "content": {
+        "rendered": "\n<p>Rostik super-puper<\/p>\n\n\n\n<p>Nazar tozhe nihuioviy<\/p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"3840\" height=\"2160\" src=\"http:\/\/ynu-back.herokuapp.com\/wp-content\/uploads\/2023\/05\/Beretta-Logo.png\" alt=\"\" class=\"wp-image-91\"\/><\/figure>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Rostik super-puper Nazar tozhe nihuioviy<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+        "self": [{
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/pages\/41"
+        }],
+        "collection": [{
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/pages"
+        }],
+        "about": [{
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/types\/page"
+        }],
+        "author": [{
+            "embeddable": true,
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/users\/1"
+        }],
+        "replies": [{
+            "embeddable": true,
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/comments?post=41"
+        }],
+        "version-history": [{
+            "count": 4,
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/pages\/41\/revisions"
+        }],
+        "predecessor-version": [{
+            "id": 101,
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/pages\/41\/revisions\/101"
+        }],
+        "wp:attachment": [{
+            "href": "http:\/\/ynu-back.herokuapp.com\/wp-json\/wp\/v2\/media?parent=41"
+        }],
+        "curies": [{
+            "name": "wp",
+            "href": "https:\/\/api.w.org\/{rel}",
+            "templated": true
+        }]
+    }
+}
