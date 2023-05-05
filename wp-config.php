@@ -20,9 +20,9 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'heroku_53f38ca6c651136');
-define('DB_USER', 'b7d1aacb7fd54d');
-define('DB_PASSWORD', '5f4f4f53');
+define('DB_NAME', 'heroku_b148d4d482704d7');
+define('DB_USER', 'bcc0dff0ab3dd2');
+define('DB_PASSWORD', '1f7bbd54');
 define('DB_HOST', 'eu-cdbr-west-03.cleardb.net');
 define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
