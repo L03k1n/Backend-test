@@ -17,21 +17,16 @@
  *
  * @package WordPress
  */
-define( 'DB_NAME', 'heroku_db' );
-/** Database username */
-define( 'DB_USER', 'b31d85dda5cc4b' );
 
-/** Database password */
-define( 'DB_PASSWORD', '9a8ce273' );
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'heroku_53f38ca6c651136');
+define('DB_USER', 'b7d1aacb7fd54d');
+define('DB_PASSWORD', '5f4f4f53');
+define('DB_HOST', 'eu-cdbr-west-03.cleardb.net');
+define('DB_CHARSET', 'utf8mb4');
+define('DB_COLLATE', '');
 
-/** Database hostname */
-define( 'DB_HOST', 'eu-cdbr-west-03.cleardb.net' );
-
-/** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
-
-/** The database collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
 
 /**#@+
  * Authentication unique keys and salts.
